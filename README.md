@@ -10,11 +10,11 @@ INFOR Automation
 This project tracks the 2 automation scripts that is used to make deploying INFOR offers easier/faster.
 
 1. inforRetrieveOffers.py
-        *python script
-        *that can be ran to parse the text file generated from a MOP generations
+        - python script
+        - that can be ran to parse the text file generated from a MOP generations
 2. inforGenerateJiraTicket.js
-        *the google app script that used to find the new desired offers
-        *generate a email to create a jira ticket.
+        - the google app script that used to find the new desired offers
+        - generate a email to create a jira ticket.
 
 ### Files used
 1. n/a
